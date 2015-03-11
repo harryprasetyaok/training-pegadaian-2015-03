@@ -111,5 +111,16 @@ http://software.endy.muhardin.com
 * Staging Area : perubahan yang *akan* di-commit
 * Working Area : perubahan yang kita lakukan dan belum dimasukkan ke staging
 
+# Remote Repository
 
+# Workflow
 
+* Shared Repository 
+
+# Workflow Integration Manager : Contributor
+
+* Fork Repo Induk
+* Clone dari hasil fork
+* Setup remote 'upstream' yang mengarah ke repo induk
+* Lakukan perubahan
+* Push ke hasi fork
